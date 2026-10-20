@@ -332,22 +332,22 @@ export const PRODUCTS: Product[] = [
     ],
     images: [
       {
-        url: '/src/assets/images/chair_front_lifestyle_1792485417280.jpg',
+        url: '/images/chair_front.jpg',
         alt: 'caselive Ergonomic Massage Recliner Chair in Soft Cream Beige',
         label: 'Front 3/4 Studio View',
       },
       {
-        url: '/src/assets/images/chair_recline_massage_1792485417811.jpg',
+        url: '/images/chair_recline.jpg',
         alt: 'caselive Massage Chair in 135 Degree Recline Lounge Position with Footrest',
         label: '135° Reclined Position',
       },
       {
-        url: '/src/assets/images/chair_detail_controls_1792485419788.jpg',
+        url: '/images/chair_detail.jpg',
         alt: 'Macro Detail of Stitching, Material Texture and Remote Pocket',
         label: 'Tactile Material & Controls',
       },
       {
-        url: '/src/assets/images/chair_black_variant_1792485418724.jpg',
+        url: '/images/chair_black.jpg',
         alt: 'caselive Massage Executive Chair in Jet Black Finish',
         label: 'Jet Black Edition',
         isBlackVariant: true,
@@ -488,8 +488,8 @@ export const PRODUCTS: Product[] = [
     ],
     images: [
       {
-        url: '/src/assets/images/chair_front_lifestyle_1792485417280.jpg',
-        alt: 'caselive 4-Piece Garden Lounge Set',
+        url: '/images/patio_rattan.jpg',
+        alt: 'caselive 4-Piece Garden Lounge Set with Coffee Table',
         label: 'Outdoor Setup',
       },
     ],
@@ -606,8 +606,8 @@ export const PRODUCTS: Product[] = [
     ],
     images: [
       {
-        url: '/src/assets/images/chair_front_lifestyle_1792485417280.jpg',
-        alt: 'caselive Multi-Level Cat Tree Tower',
+        url: '/images/cat_tree.jpg',
+        alt: 'caselive Multi-Level Cat Tree Tower with Sisal Posts and Hammock',
         label: 'Overall Setup',
       },
     ],
